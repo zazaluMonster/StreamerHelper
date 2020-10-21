@@ -2,17 +2,18 @@
   "personInfo": {
     "username": "18767578219",
     "password": "he65177032",
-    "access_token":""
+    "access_token":"7a93459d9f5f9fc8a78271bbbb4ddf31"
   },
   "streamerInfo": [
     {
-      "iGNing": {
-        "roomUrl": "https://www.huya.com/980312",
-        "tid":21,
+      "栖苑": {
+        "roomUrl": "https://live.bilibili.com/10049827",
+        "tid":130,
         "tags": [
-          "英雄联盟",
-          "电子竞技",
-          "iG"
+          "录播",
+          "治愈",
+          "听歌",
+          "歌曲"
         ]
       }
     }
